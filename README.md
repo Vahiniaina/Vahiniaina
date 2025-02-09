@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007BFF&center=true&vCenter=true&random=false&width=435&lines=Salama+eh!+👋+%2C+I'm+Vahiniaina" />
 </h1>
 <!-- Title Section -->
- <br> <strong> A Data Analyst/Engineer with with a passion for AI </strong>
+ <br> <strong> A Data Analyst/Engineer with  a passion for AI </strong>
   <br><br>
 
 <!-- Description Section -->
@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently exploring the world of Machine Learning, one algorithm at a time!
 - 💬 Ask me about Mathemaics and Robotics 📐🤖
-- ⚡ Fun fact: My idea of a perfect day? A cup of coffee, good WiFi, and zero merge conflicts.  🤪
+- ⚡ Fun fact: My idea of a perfect day? A cup of coffee, good WiFi, and zero bugs in code.  🤪
 
 </p>
 <br><br>
