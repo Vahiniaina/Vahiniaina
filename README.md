@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007BFF&center=true&vCenter=true&random=false&width=435&lines=Salama+eh!+👋+%2C+I'm+Vahiniaina" />
 </h1>
 <!-- Title Section -->
- <br> <strong> A Data Analyst/Engineer with AI enthusiasm </strong>
+ <br> <strong> A Data Analyst/Engineer with with a passion for AI </strong>
   <br><br>
 
 <!-- Description Section -->
@@ -42,13 +42,13 @@
 </div>
 <br><br>
 
-## 🚀 GitHub Trophy
+<!--  ## 🚀 GitHub Trophy
 <br>
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Vahiniaina&theme=radical" />
     <br><br>
 </div>
-
+-->
 
 
 
