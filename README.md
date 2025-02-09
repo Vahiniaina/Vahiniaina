@@ -9,7 +9,7 @@
 <p align="left">
   
 - 🌱 I’m currently exploring the world of Machine Learning, one algorithm at a time!
-- 💬 Ask me about Mathemaics and Robotics 📐🤖
+- 💬 Ask me about Mathematics and Robotics 📐🤖
 - ⚡ Fun fact: My idea of a perfect day? A cup of coffee, good WiFi, and zero bugs in code.  🤪
 
 </p>
