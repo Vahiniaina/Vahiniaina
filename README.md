@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently exploring the world of Machine Learning, one algorithm at a time!
 - 💬 Ask me about Mathematics and Robotics 📐🤖
-- ⚡ Fun fact: My idea of a perfect day? A cup of coffee, good WiFi, and zero bugs in code.  🤪
+- ⚡ Fun fact: My idea of a perfect day? A cup of coffee, good WiFi, and zero bugs in my code.  🤪
 
 </p>
 <br><br>
