@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007BFF&center=true&vCenter=true&random=false&width=435&lines=Salama+eh!+👋+%2C+I'm+Vahiniaina" />
-</h1>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Salama%20eh!;Data%20Engineer%20and%20analyst;Experienced%20BI%20Developer;2%2B%20years%20of%20engineering%20experience;Always%20learning%20Always%20evolving;Tongasoa&font=Fira%20Code&center=true&width=440&height=45&color=f007bff&vCenter=true&pause=1000&size=22" /></a>
+</p>
 <!-- Title Section -->
  <br> <strong> A Data Analyst/Engineer with  a passion for AI </strong>
   <br><br>
